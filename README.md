@@ -2,7 +2,7 @@
 
 ## 1. Project Rationale
 
-As part of my current role as a **Real Estate Investment Analyst** for a Swiss investment firm, I work on office development strategies across **Lisbon, Madrid, and London**. One of our recurring challenges is identifying the right acquisition timing based on early signals of local market dynamics.
+As part of my current role, I work on office development strategies across **Lisbon, Madrid, and London**. One of our recurring challenges is identifying the right acquisition timing based on early signals of local market dynamics.
 
 Among these signals, **construction permit issuance** is a highly valuable indicator. While we usually rely on brokers to obtain this data on a one-off basis, I wanted to explore whether it's possible to go further and build a model that could **anticipate future construction trends**, providing a proactive edge to the investment process.
 
