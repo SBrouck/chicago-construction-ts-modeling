@@ -122,10 +122,6 @@ chicago-construction-ts-modeling/
 - Build a simple **Streamlit dashboard** for real-time predictions
 - Expand to classify permit types and model spatial distributions
 
----
-
-## 8. About Me
-This project was developed by **Sacha Brouck**, a data-driven real estate analyst preparing to join the **University of Washington MSBA program**. My goal is to create professional, rigorous, and interpretable machine learning projects rooted in real-world investment use cases.
 
 **LinkedIn**: [Sacha Brouck](https://www.linkedin.com/in/sacha-brouck/)  
 **GitHub**: [SBrouck](https://github.com/SBrouck)
